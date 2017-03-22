@@ -1,0 +1,332 @@
+    1  sudo 
+    2  sudo apt-get php
+    3  Chocolate21
+    4  sudo 
+    5  synaptic
+    6  sudo apt install synaptic
+    7  sudo apt install php
+    8  sudo apt install git
+    9  synaptic
+   10  exit
+   11  ls
+   12  ls -la
+   13  cd Desktop/
+   14  ls
+   15  ls -la
+   16  rm -rf/
+   17  sudo rm -rf/
+   18  /
+   19  cd..
+   20  cd
+   21  sudo rm -rf/
+   22  rm -rf/
+   23  sudo rm -rf/
+   24  sudo apt -get update
+   25  sudo apt-get update
+   26  sudo apt-get install synaptic
+   27  sudo synaptic
+   28  ps -ef | grep -i packagekit
+   29  ps -ef | grep -i package
+   30  lsof
+   31  mkdir git
+   32  ls
+   33  cd git/
+   34  cd..
+   35  cd
+   36  rm -r git/
+   37  cd /
+   38  ls
+   39  cd /home
+   40  ls
+   41  cd nadhiesky/
+   42  cd git
+   43  cd ~
+   44  cd /var/log/
+   45  cd /run/
+   46  cd~
+   47  cd
+   48  sudo synaptic
+   49  Chocolate21
+   50  sudo
+   51  sudo apt-get install mysql-server
+   52  history
+   53  vim .bash
+   54  cat. bash
+   55  cat .bash_hystory
+   56  cat .bash_history
+   57  mysql -u root -p
+   58  exit
+   59  ls
+   60  mysql;
+   61  cd
+   62  show database
+   63  cast.bash_history
+   64  mysql -u root -p
+   65  sudo apt -get install php
+   66  sudo apt-get install php
+   67  sudo apt-get install git
+   68  ifconfig
+   69  ls
+   70  ls -la
+   71  cd Destop
+   72  cd Desktop
+   73  ls
+   74  ls .la
+   75  ls -la
+   76  cd
+   77  rm -rf /
+   78  sudo
+   79  sudo rm -rf /
+   80  sudo app -get update
+   81  sudo app-get update
+   82  sudo apt-get update
+   83  sudo apt-get install synaptic
+   84  sudo synaptic
+   85  ps -ef | grep -i packagekit
+   86  ps -ef | grep -i package
+   87  lsof
+   88  mkdir git
+   89  ls
+   90  cd git/
+   91  cd..
+   92  cd ..
+   93  \rm - git/
+   94  cd /home
+   95  ls
+   96  cd ~
+   97  cd/var/log
+   98  cd /var /log
+   99  cd /var/log
+  100  cd ../run
+  101  ls
+  102  home
+  103  cd
+  104  sudo synaptic
+  105  sudo apt-get install mysql-
+  106  sudo apt-get install mysql-server
+  107  history
+  108  vim .bash
+  109  vim. bash
+  110  ls
+  111  cd ../
+  112  ls
+  113  cd git
+  114  ls
+  115  cd IT-635_SP17
+  116  ls
+  117  vim testdb.php
+  118  ls
+  119  cd git
+  120  ls
+  121  cd IT-635_SP17
+  122  ls
+  123  vim testdb.php
+  124  chmod +x testdb.php
+  125  vim testdb.php
+  126  mysql -u root -p
+  127  ls
+  128  git
+  129  cd git
+  130  ls
+  131  cd IT-635_SP17
+  132  ls
+  133  vim testdb.php
+  134  ls
+  135  cd git
+  136  ls
+  137  cd IT-635_SP17
+  138  ls
+  139  vim testdb.php
+  140  chmod +x testdb.php
+  141  ls -la
+  142  history
+  143  vim testdb.php
+  144  gedit testdb.php
+  145  ./test.php
+  146  ./testdb.php
+  147  ls
+  148  cd git
+  149  ls
+  150  cd IT-6735_SP17
+  151  cd IT-635_SP17
+  152  ls
+  153  gedit                                testdb.php
+  154  ls
+  155  cd git
+  156  ls
+  157  cd IT-635_SP17_
+  158  ls
+  159  cd IT-635_SP17
+  160  ls
+  161  cd '/home/nadhiesky/git/IT-635_SP17' 
+  162  ls
+  163  show backup.sql
+  164  show tables
+  165  sudo '/home/nadhiesky/git/IT-635_SP17/backup.sql' 
+  166  SHOW tables
+  167  SHOW tables;
+  168  cd../
+  169  /q
+  170  /q;
+  171  exit
+  172  sudo su
+  173  mysql -u root -p
+  174  show database
+  175  show database;
+  176  ls
+  177  mysql -u root -p
+  178  ls
+  179  cd IT
+  180  cd IT_635
+  181  ls
+  182  cd Project17
+  183  ls
+  184  show databases
+  185  show tables
+  186  show table
+  187  ls
+  188  vim donor.php
+  189  ls 
+  190  cd Project17
+  191  ls
+  192  exit
+  193  ls
+  194  cd git/Project17
+  195  cd git
+  196  cd Project17
+  197  ..cd;
+  198  cd..;
+  199  exit
+  200  ls
+  201  cd Project17
+  202  ls
+  203  ./Donor.php
+  204  '/home/nadhiesky/Project17/Donor.php' ;
+  205  chmod +x donor.php
+  206  ls
+  207  Project17
+  208  cd Project17
+  209  vim honor.php
+  210  gedit donor.php
+  211  chmod +x donor.php
+  212  ls -la
+  213  ./donor.php
+  214  gedit donor.php
+  215  ./donor.php
+  216  gedit donor.php
+  217  ./donor.php
+  218  YES)
+  219  gedit donor.php
+  220  ./donor.php
+  221  gedit donor.php
+  222  ./donor.php
+  223  mysql -u root -p
+  224  ls
+  225  cd IT635
+  226  ls
+  227  git init
+  228  git status
+  229  mysqldump -u root -p Blood_Bank> Donors.sql
+  230  cat Donors.sql
+  231  git add Donor.sql
+  232  git add Donors.sql
+  233  git status
+  234  cat user.sql
+  235  mysqldump -u root -p Blood_Bank> user.sql
+  236  cat user.sql
+  237  git add user.sql
+  238  git status
+  239  ls
+  240  Project_IT635
+  241  cd Project_IT635
+  242  ls
+  243  sudo apt-get install gitk
+  244  gitk
+  245  git log
+  246  git remote add origin https://github.com/nady309/IT-635_SP17.git
+  247  git push -u origin master
+  248  git remote add origin https://github.com/nady309/Project_IT635.git
+  249  git remote add origin https://github.com/nady309/Project_IT635_17.git
+  250  git init
+  251  ls
+  252  cd Project_IT635_17
+  253  ls
+  254  git status
+  255  git init
+  256  git log
+  257  git commit -m "first commit,nothing important here"
+  258  git config --global user.email"nady309@gmail.com"
+  259  git config --global user.name"Nadhiesky"
+  260  git log
+  261  git remote add origin https://github.com/nady309/Project_IT635_17.git
+  262  git push -u origin master
+  263  git add Donors.sql
+  264  git add user.sql
+  265  git commint -am "adding"
+  266  yes
+  267  ls
+  268  mkdir Project IT635
+  269  mkdir Project_IT635
+  270  ls
+  271  cd Project_IT635
+  272  ls
+  273  git init
+  274  git status
+  275  mysqldump -u root -p Blood_Bank >Donors.sql
+  276  cat Donors.sql
+  277  git status
+  278  mysqldump -u root -p Blood_Bank >user.sql
+  279  cat user.sql
+  280  cat Donors.sql
+  281  git add Donors.sql
+  282  git status
+  283  git add user.sql
+  284  git status
+  285  git commit -m
+  286  git commit -m "firts commit, nothing important here"
+  287  git config --global user.mail"nady309@gmail.com
+  288  git commit -m "firts commit, nothing important here"
+  289  ;
+  290  git config --global user.mail"nady309@gmail.com"
+  291  git commit -m "firts commit, nothing important here"
+  292  ;
+  293  git config --global user.name"Nadhiesky"
+  294  git commit -m "firts commit, nothing important here"
+  295  sudo apt -get install gitk
+  296  //
+  297  .
+  298  ;
+  299  '
+  300  ,
+  301  \
+  302  ls
+  303  cd Project_IT635_17
+  304  ls
+  305  git status
+  306  git log
+  307  rm -rf .git
+  308  git log
+  309  ls 
+  310  mkdir IT635
+  311  ls
+  312  cd IT635
+  313  ls
+  314  git init
+  315  git status
+  316  mysqldup -u root -p > Donors.sql
+  317  mysqldump -u root -p > Donors.sql
+  318  mysqldump -u root -p > Blood_Bank > Donors.sql
+  319  mysqldump -u root -p  Blood_Bank > Donors.sql
+  320  cat Donors.sql
+  321  git add Donors.sql
+  322  git status
+  323  git add Blood_Bank
+  324  git status
+  325  mysqldump -u root -p  Blood_Bank > user.sql
+  326  cat user.sql
+  327  git add user.sql
+  328  git status
+  329  git rm Blood_Bank
+  330  git status
+  331  history
+  332  history > history.txt
